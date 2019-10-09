@@ -1,0 +1,12 @@
+.navbar.navbar-inverse {background: #6AA1A8}
+
+body {padding-top: 70px; background-color: #8C8F90  }
+
+.jumbotron {color:#6AA1A8; background-image: url(ryan-moreno-w1_4YH5IhDg-unsplash.jpg);}
+
+.thumbnail {background-color: #6AA1A8; border-color: #6AA1A8}
+
+.navbar-inverse .navbar-nav>li>a {
+    color:#353535;}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a { color:#353535}
